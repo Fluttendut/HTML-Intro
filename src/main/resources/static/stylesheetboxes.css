@@ -16,8 +16,8 @@ section{;
     float: left;
     padding: 5px;
 }
-#sectionL {width:58%}
-#sectionR {width: 37%; float: right}
+#sectionL {width:68%}
+#sectionR {width: 27%; float: right}
 #sectionheader {margin-bottom: 10px}
 article {
     background-color: darkcyan;
@@ -29,6 +29,10 @@ article {
 }
 #header2 {margin-bottom: 0px}
 p {background-color: darkslategray; margin-bottom: 5px; margin-top: 0px}
-#parabox {float: left; width: 58%}
-aside {background-color: antiquewhite; float: right; width: 37%; border: solid 1px black;}
+#parabox {float: left; width: 68%}
+aside {background-color: antiquewhite; float: right; width: 27%; border: solid 1px black;}
 footer {background-color: antiquewhite; clear: both; border: solid 1px black; margin-top: 90px}
+#nav2 {height: 287px;margin-bottom: 30px;}
+#sectionheader2 {margin-bottom: 31px;}
+
+//
