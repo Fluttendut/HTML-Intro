@@ -17,7 +17,7 @@ section{;
     padding: 5px;
 }
 #sectionL {width:68%}
-#sectionR {width: 27%; float: right}
+#sectionR {width: 27%; float: right; height: 494px}
 #sectionheader {margin-bottom: 10px}
 article {
     background-color: darkcyan;
@@ -32,7 +32,9 @@ p {background-color: darkslategray; margin-bottom: 5px; margin-top: 0px}
 #parabox {float: left; width: 68%}
 aside {background-color: antiquewhite; float: right; width: 27%; border: solid 1px black;}
 footer {background-color: antiquewhite; clear: both; border: solid 1px black; margin-top: 90px}
-#nav2 {height: 287px;margin-bottom: 30px;}
+#nav2 {height: 287px;margin-bottom: 30px; height: 310px;}
 #sectionheader2 {margin-bottom: 31px;}
+#footertwo {}
 
-//
+
+
